@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[Diamaint](https://Glazunovatomara.github.io/diamaint/)
+[Diamaint](https://elenlen.github.io/diamaint/)
 
 ---
 
@@ -17,10 +17,7 @@
 
 Сайт реализован на препроцессоре Sass.
 В проекте использовались следующие технологии:
-
-- Flexbox
-- CSS
-- JS
+CSS, SASS, JS
 
 В проекте есть анимация наведения курсора на кнопки.
 Навигация на странице.
