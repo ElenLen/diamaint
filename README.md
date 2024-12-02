@@ -37,3 +37,5 @@ CSS, SASS, JS
 [Алена](https://github.com/ochumenno66) - блок "О женщинах" и "Полезно знать"
 
 [Евгения](https://github.com/NasheSiyatelstvo) - блок "Авторы" и Footer
+
+[![Contributors](https://contrib.rocks/image?repo=ElenLen/diamaint)](https://github.com/ElenLen/diamaint/graphs/contributors)
