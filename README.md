@@ -1,6 +1,6 @@
 # Diamaint - Адаптивный лендинг
 
-[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-green?style=for-the-badge)](https://elenlen.github.io/Diamaint/) | [![Source Code](https://img.shields.io/badge/📁-Source_Code-blue?style=for-the-badge)](https://github.com/ElenLen/Diamaint)
+[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-green?style=for-the-badge)](https://elenlen.github.io/diamaint/) | [![Source Code](https://img.shields.io/badge/📁-Source_Code-blue?style=for-the-badge)](https://github.com/ElenLen/diamaint)
 
 **Полностью адаптивный лендинг**, сверстанный по макету из Figma. Проект focuses на чистом JavaScript и современных подходах к верстке.
 
